@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "57ef799f87bdedca",
+        "id": "0b7df49f670a6f5d",
         "type": "tabs",
         "children": [
           {
-            "id": "3eea8a20dec68849",
+            "id": "0d5b8505e691369e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/1719553626-UKUS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/1719553626-UKUS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/1719553626-UKUS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "git/1719553626-UKUS.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,24 +138,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3eea8a20dec68849",
+  "active": "0d5b8505e691369e",
   "lastOpenFiles": [
+    "powershell/1720590083-OXTU.md",
+    "powershell/1720590083-OXTU.md~",
+    "azure/1720364721-HEMY.md",
+    "azure/1720576502-JFIS.md",
+    "asp.net/1720576502-JFIS.md~",
+    "asp.net/4913",
+    "asp.net/1720364721-HEMY.md~",
+    "TEMPLATES/commands template.md",
     "git/1719553626-UKUS.md~",
-    "git/4913",
+    "TEMPLATES/commands template.md~",
     "lua/1720404575-IPDC.md",
+    "git/1719553626-UKUS.md",
+    "git/4913",
     "assets/myimage.jpg",
     "markdown/1720396331-MPNY.md",
     "lua, lua nvim, lua I",
     "lua",
     "TEMPLATES/makenote~",
-    "TEMPLATES/makenote",
-    "TEMPLATES",
     "Obsidian_Learning/Law of Inertia.md",
     "Obsidian_Learning/Three Laws of motion.md",
     "Untitled 1.md",
     "Obsidian_Learning/Layout Notes.md",
     "Untitled.md",
-    "Obsidian_Learning",
     "Welcome.md"
   ]
 }
