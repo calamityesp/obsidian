@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0b7df49f670a6f5d",
+        "id": "e167d2921fd5f8b0",
         "type": "tabs",
         "children": [
           {
-            "id": "0d5b8505e691369e",
+            "id": "3a00fa29f38605e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "bash_scripting/1720809411-XGHW.md",
-                "mode": "source",
-                "source": false
+                "file": "handwritten-notes/New note.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bash_scripting/1720809411-XGHW.md",
+                "file": "handwritten-notes/New note.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bash_scripting/1720809411-XGHW.md",
+                "file": "handwritten-notes/New note.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bash_scripting/1720809411-XGHW.md"
+                "file": "handwritten-notes/New note.pdf"
               }
             }
           }
@@ -143,30 +141,34 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "0d5b8505e691369e",
+  "active": "3a00fa29f38605e3",
   "lastOpenFiles": [
+    "handwritten-notes/New note.pdf",
+    "HANDWRITTENNOTES/Untitled.md",
+    "handwritten-notes/Testing.pdf",
+    "Ink/Writing/2024.7.16 - 22.24pm.writing",
+    "handwritten-notes/Testing.xopp",
+    "handwritten-notes/testing it out.pdf",
+    "handwritten-notes/testing.pdf",
+    "handwritten-notes/testing.xopp",
+    "handwritten-notes/testing it out.xopp",
+    "handwritten-notes/Testing It OUt.pdf",
+    "HANDWRITTENNOTES/Handwritten test.md",
+    "assets/myimage.jpg",
+    "handwritten-notes",
+    "bash_scripting/1720809411-XGHW.md",
     "TEMPLATES/commands template.md",
     "TEMPLATES/1720668770-QWDB.md",
-    "TEMPLATES/1720668770-QWDB.md~",
-    "TEMPLATE",
     "azure/1720364721-HEMY.md",
     "azure/1720576502-JFIS.md",
     "git/1719553626-UKUS.md",
     "powershell/1720590083-OXTU.md",
-    "powershell/1720590083-OXTU.md~",
-    "asp.net/1720576502-JFIS.md~",
-    "asp.net/4913",
-    "asp.net/1720364721-HEMY.md~",
-    "git/1719553626-UKUS.md~",
-    "TEMPLATES/commands template.md~",
     "lua/1720404575-IPDC.md",
-    "git/4913",
-    "assets/myimage.jpg",
     "markdown/1720396331-MPNY.md",
-    "lua, lua nvim, lua I",
     "Obsidian_Learning/Law of Inertia.md",
     "Obsidian_Learning/Three Laws of motion.md",
     "Untitled 1.md",
