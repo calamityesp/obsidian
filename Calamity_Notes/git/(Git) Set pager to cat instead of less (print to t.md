@@ -1,9 +1,7 @@
 ---
-aliases:
-  - "(Git) Set pager to cat instead of less (print to terminal instead of less) "
-tags:
-  - Keep/Label/git
-  - Keep/Label/Git-Config
+id: (Git) Set pager to cat instead of less (print to t
+aliases: []
+tags: []
 ---
 
-git config --global core.pager cat
+

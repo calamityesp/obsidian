@@ -1,11 +1,11 @@
 ---
+id: (Bash)(WSL) Networking Sending and Receiving fil
 aliases:
-  - "(Bash)(WSL) [Networking] Sending and Receiving files SCP "
+  - (Bash)(WSL) [Networking] Sending and Receiving files SCP
 tags:
-  - Keep/Label/commandline
-  - Keep/Label/WSL
-  - Keep/Label/bash
-  - Keep/Label/Linux
+  - bash_file_transfer
+  - bash_scp
+  - bash_network_scp
 ---
 
 Short Description: This is what you have to do to send and receive files over scp. 

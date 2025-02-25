@@ -1,5 +1,8 @@
 {
   "theme": "obsidian",
   "accentColor": "#dd9440",
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "cssTheme": "Catppuccin",
+  "textFontFamily": "",
+  "interfaceFontFamily": "3270 Nerd Font Propo"
 }

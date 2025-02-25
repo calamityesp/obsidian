@@ -1,6 +1,8 @@
 ---
+id: (Bash Scripting) Special Characters
+aliases: []
 tags:
-  - Keep/Label/bash
+  - bash_scripting_special_char
 ---
 
 Char.

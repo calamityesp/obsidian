@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "ad184d599c0e003e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7db1d9d60fbb67dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66cac4e8ca005cf8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee15efb1338afa17",
+    "type": "split",
+    "children": [
+      {
+        "id": "3963485f81b78c5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46ec6e17aaff3c0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "41c109bec273d670",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "658880c91c19d36a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "07eb1b59f036a097",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f25d78b39ff7d37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49de655b06329717",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dotnet/asp.net/1732550784-KBIA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1732550784-KBIA"
+            }
+          },
+          {
+            "id": "667c34573ea9fd9e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dotnet/asp.net/1732550784-KBIA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1732550784-KBIA"
+            }
+          },
+          {
+            "id": "77d88c898078e302",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ea0a2db22ea91645",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dotnet/asp.net/1732550784-KBIA.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1732550784-KBIA"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "handwritten-notes:Create empty handwritten note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "66cac4e8ca005cf8",
+  "lastOpenFiles": [
+    "nvim/lsp/1732650224-IPCV.md~",
+    "https/github.com/OmniSharp",
+    "https/github.com",
+    "https",
+    "omnisharp_vim.md",
+    "nvim/lsp/1732650224-IPCV.md",
+    "network/1732641482-AIVQ.md",
+    "https/github.com/OmniSharp",
+    "https/github.com/OmniSharp",
+    "https/github.com",
+    "omnisharp_vimhttps/github.com/OmniSharp",
+    "omnisharp_vimhttps/github.com",
+    "omnisharp_vimhttps",
+    "nvim/lsp",
+    "dotnet/asp.net/1732594118-QQMW.md",
+    "bash/1732559742-BCXJ.md",
+    "dotnet/1732557440-VCHV.md",
+    "chatgpt/1732554834-QOZW.md",
+    "dotnet/asp.net/Pasted image 20241125091407.png",
+    "dotnet/aspdotnet/Pasted image 20241021201823.png",
+    "dotnet/aspdotnet/Pasted image 20241021200243.png",
+    "dotnet/aspdotnet/Pasted image 20241021192949.png",
+    "dotnet/architecture/1728004866-MIFP.md",
+    "dotnet/architecture/Pasted image 20241003050649.png",
+    "TEMPLATES/textField template.md",
+    "python/1725070868-YXSX.md",
+    "python/1725069069-NQBX.md",
+    "python/1724481411-ANKG.md",
+    "python/1724342094-IKFB.md",
+    "python/1724340844-VVIL.md",
+    "git/1724211005-SGTH.md",
+    "git/1724272495-QEIW.md",
+    "git/1724268640-VVGA.md",
+    "git/1723661667-ZFLO.md",
+    "git/1724265383-WXYB.md",
+    "git/1724209974-YKCZ.md",
+    "git/1724210505-JAHL.md",
+    "git/1724209170-XCKD.md",
+    "git/1724209499-GAVG.md",
+    "git/1724208717-WDLD.md",
+    "git/1724208108-CZJF.md",
+    "git/Pasted image 20240821124123.png",
+    "git/Pasted image 20240821123757.png",
+    "git/Pasted image 20240820211500.png",
+    "Pasted image 20240814195337.png",
+    "Pasted image 20240813223800.png"
+  ]
+}

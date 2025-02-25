@@ -4,17 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "e167d2921fd5f8b0",
+        "id": "481c8257c6f060e7",
         "type": "tabs",
         "children": [
           {
-            "id": "3a00fa29f38605e3",
+            "id": "2b9f2a99d9e772ee",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "handwritten-notes/New note.pdf"
-              }
+                "file": "azure/devops/1736643988-LWFR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1736643988-LWFR"
+            }
+          },
+          {
+            "id": "9677008f39178a93",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
             }
           }
         ]
@@ -37,7 +53,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -46,13 +64,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Feature_Description",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -60,14 +80,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "07eb1b59f036a097",
@@ -83,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "handwritten-notes/New note.pdf",
+                "file": "bash/1723688128-WKLX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1723688128-WKLX"
             }
           },
           {
@@ -100,10 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "handwritten-notes/New note.pdf",
+                "file": "bash/1723688128-WKLX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1723688128-WKLX"
             }
           },
           {
@@ -114,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -123,57 +152,78 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "handwritten-notes/New note.pdf"
-              }
+                "file": "bash/1723688128-WKLX.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1723688128-WKLX"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "handwritten-notes:Create empty handwritten note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false,
-      "handwritten-notes:Create empty handwritten note": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "3a00fa29f38605e3",
+  "active": "2b9f2a99d9e772ee",
   "lastOpenFiles": [
-    "handwritten-notes/New note.pdf",
-    "HANDWRITTENNOTES/Untitled.md",
-    "handwritten-notes/Testing.pdf",
-    "Ink/Writing/2024.7.16 - 22.24pm.writing",
-    "handwritten-notes/Testing.xopp",
-    "handwritten-notes/testing it out.pdf",
-    "handwritten-notes/testing.pdf",
-    "handwritten-notes/testing.xopp",
-    "handwritten-notes/testing it out.xopp",
-    "handwritten-notes/Testing It OUt.pdf",
-    "HANDWRITTENNOTES/Handwritten test.md",
-    "assets/myimage.jpg",
-    "handwritten-notes",
-    "bash_scripting/1720809411-XGHW.md",
-    "TEMPLATES/commands template.md",
-    "TEMPLATES/1720668770-QWDB.md",
-    "azure/1720364721-HEMY.md",
-    "azure/1720576502-JFIS.md",
-    "git/1719553626-UKUS.md",
-    "powershell/1720590083-OXTU.md",
-    "lua/1720404575-IPDC.md",
-    "markdown/1720396331-MPNY.md",
-    "Obsidian_Learning/Law of Inertia.md",
-    "Obsidian_Learning/Three Laws of motion.md",
-    "Untitled 1.md",
-    "Obsidian_Learning/Layout Notes.md",
-    "Untitled.md",
-    "Welcome.md"
+    "azure/devops/1736643988-LWFR.md~",
+    "angular/1739847187-FIAK.md~",
+    "angular/4913",
+    "angular/Pasted image 20250218205246.png",
+    "angular/1723598995-XXFG.md",
+    "angular/1723598995-XXFG.md~",
+    "linux/arch/1737758270-IBGP.md~",
+    "angular/1739847187-FIAK.md",
+    "python/1739684842-DCPH.md~",
+    "python/4913",
+    "python/algorithms/1739660154-AKMM.md~",
+    "python/algorithms/4913",
+    "python/1739684842-DCPH.md",
+    "c/datastructures/1739598550-VHIT.md",
+    "python/1739676717-HWOE.md~",
+    "python/1739676717-HWOE.md",
+    "python/algorithms/1739660154-AKMM.md",
+    "python/algorithms",
+    "c/datastructures/Pasted image 20250214225246.png",
+    "bash/1738476758-KLNA.md",
+    "bash/1738453741-FYHD.md",
+    "bash/1738475300-YPVX.md",
+    "angular/1738427226-ZUXL.md",
+    "angular/Pasted image 20250201094122.png",
+    "linux/1737948088-PUIX.md",
+    "TEMPLATES/Angular (Routes Object) template.md",
+    "angular/1723081953-EWWU.md",
+    "angular/1737857509-DDBR.md",
+    "angular/1737682189-SHMY.md",
+    "linux/arch/1737758270-IBGP.md",
+    "bash_scripting/1737693264-OPZQ.md",
+    "angular/1737607543-MQKR.md",
+    "TEMPLATES/Feature (Knowledge Section) template.md",
+    "angular/1737611472-AWBD.md",
+    "javascript/typescript/1737140729-TRGA.md",
+    "angular/1737518431-MRKH.md",
+    "angular/1722796280-FXHR.md",
+    "angular/1737427552-HHTE.md",
+    "angular/1737352721-VMMR.md",
+    "angular/Pasted image 20250119140942.png",
+    "angular/Pasted image 20250118175023.png",
+    "azure/devops/Pasted image 20250112124743.png",
+    "azure/devops/Pasted image 20250112124034.png",
+    "azure/devops/Pasted image 20250112110800.png",
+    "azure/devops/Pasted image 20250112110626.png",
+    "azure/devops/Pasted image 20250112110511.png"
   ]
 }

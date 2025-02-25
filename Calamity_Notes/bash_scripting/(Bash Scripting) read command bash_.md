@@ -1,8 +1,10 @@
 ---
+id: (Bash Scripting) read command bash_
 aliases:
-  - "(Bash Scripting) read command bash "
+  - (Bash Scripting) read command bash
 tags:
-  - Keep/Label/bash
+  - bash
+  - bash_command_read
 ---
 
 

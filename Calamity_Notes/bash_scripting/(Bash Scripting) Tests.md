@@ -1,6 +1,9 @@
 ---
+id: (Bash Scripting) Tests
+aliases: []
 tags:
-  - Keep/Label/bash
+  - bash_scripting_conditions
+  - bash_scripting_tests
 ---
 
 Short Description:  All about test in BASH shell
